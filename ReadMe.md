@@ -10,7 +10,7 @@ Please write an R script that performs the operations described below.  When you
     * Are the column headers included in the file?
     * How are data columns separated?
     * Are there comments in the data?
-  * Load that data file into a data frame in R directly from the web.  Pay special attention to the following parameters of read.table:
+  * Load that data file into a data frame in R.  Pay special attention to the following parameters of read.table:
     * header=?
     * sep="?"
     * comment.char="?"
