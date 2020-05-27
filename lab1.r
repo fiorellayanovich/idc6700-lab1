@@ -122,3 +122,6 @@ estimate <- function(n) {
 estimate(10)
 estimate(10000)
 estimate(10000000)
+print("done")
+
+
